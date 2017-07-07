@@ -1,0 +1,4 @@
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCDANN.csproj.ResolveComReference.cache
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.Form1.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCD.Properties.Resources.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Release\SimuladorMotorCDANN.csproj.GenerateResource.Cache

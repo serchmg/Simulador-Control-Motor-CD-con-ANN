@@ -1,0 +1,9 @@
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdFuzzy\SimuladorMotorCD\bin\Debug\SimuladorMotorCD.exe
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdFuzzy\SimuladorMotorCD\bin\Debug\SimuladorMotorCD.pdb
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdFuzzy\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.Form1.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdFuzzy\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.Properties.Resources.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdFuzzy\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCDFuzzy.csproj.GenerateResource.Cache
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdFuzzy\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.exe
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdFuzzy\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.pdb
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.exe
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.pdb

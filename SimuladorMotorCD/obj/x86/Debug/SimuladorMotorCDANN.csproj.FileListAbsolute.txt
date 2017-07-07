@@ -1,0 +1,16 @@
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\bin\Debug\SimuladorMotorCD.exe
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\bin\Debug\SimuladorMotorCD.pdb
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCDANN.csproj.ResolveComReference.cache
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.Form1.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.Properties.Resources.resources
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCDANN.csproj.GenerateResource.Cache
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.exe
+C:\Users\Serch\Documents\Visual Studio 2010\Projects\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.pdb
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCDANN.csproj.ResolveComReference.cache
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.exe
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.pdb
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\bin\Debug\SimuladorMotorCD.exe
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\bin\Debug\SimuladorMotorCD.pdb
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.Form1.resources
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCD.Properties.Resources.resources
+D:\Proyectos\Visual 2010\SimuladorMotorcdANN\SimuladorMotorCD\obj\x86\Debug\SimuladorMotorCDANN.csproj.GenerateResource.Cache
